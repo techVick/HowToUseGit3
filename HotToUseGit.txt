@@ -1,0 +1,24 @@
+cd 'C:/VVV/VVV'
+
+git reset
+
+git rm --cached file.txt
+or
+git rm --cached folder/*
+
+git init
+
+git status
+
+git add file.txt
+or
+git add folder/*
+
+git commit -m "vikcommit"
+
+git remote add vikulp URL(get from git repo)
+
+git remote -vikcommit
+
+git push -u vikulp master
+
