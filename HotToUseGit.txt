@@ -22,3 +22,15 @@ git remote -v
 
 git push -u vikulp master
 
+=====================================================
+change the file
+==============================================
+git add file.txt
+or
+git add folder/*
+
+git commit -m "vikcommit2"
+
+git push
+
+
