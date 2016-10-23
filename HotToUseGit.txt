@@ -18,7 +18,7 @@ git commit -m "vikcommit"
 
 git remote add vikulp URL(get from git repo)
 
-git remote -vikcommit
+git remote -v
 
 git push -u vikulp master
 
